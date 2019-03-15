@@ -1,8 +1,8 @@
 {
-    "name": "@pkopy/tiny",
-    "version": "1.0.0",
-    "description": "Removes all spaces from a string",
-    "license": "MIT",
+  "name": "@pkopy/tiny",
+  "version": "2.0.0",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
   "repository": "pkopy/tiny",
   "main": "index.js",
   "keywords": [
