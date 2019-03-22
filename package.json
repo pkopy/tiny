@@ -5,6 +5,9 @@
   "license": "MIT",
   "repository": "pkopy/tiny",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js" 
+  },
   "keywords": [
     "tiny",
     "npm",
